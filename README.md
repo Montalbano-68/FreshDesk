@@ -4,12 +4,11 @@ asdfasf gah agtr
 
 *cursiva*
 
-sadfasdf 
+sin cursiva
 
 
 ![imagen](/capturas/1.png)
 
-*negrita*
-
+**negrita**
 
 sin negrita
