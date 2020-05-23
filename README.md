@@ -2,7 +2,7 @@
 Práctica 1º de ASIR
 asdfasf gah agtr 
 
-****fas asf****
+*cursiva*
 
 sadfasdf 
 
