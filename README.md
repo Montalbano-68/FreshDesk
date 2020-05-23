@@ -6,7 +6,6 @@ asdfasf gah agtr
 
 sin cursiva
 
-
 ![imagen](/capturas/1.png)
 
 **negrita**
