@@ -9,6 +9,7 @@ sadfasdf
 
 ![imagen](/capturas/1.png)
 
-__negrita__
+*negrita*
+
 
 sin negrita
